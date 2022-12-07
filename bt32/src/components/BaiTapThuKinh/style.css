@@ -1,0 +1,15 @@
+.glass {
+    width: 150px;
+    height: auto;
+    padding: 30px 0;
+}
+.model {
+   
+    position: relative;
+}
+.glass-model {
+    position: absolute;
+    width: 50%;
+    top: 25%;
+    left: 22.5%;
+}
